@@ -1,7 +1,7 @@
 {
   "name": "Asignaciones Geotec",
   "short_name": "Asignaciones",
-  "description": "Asignación de camionetas y tablets Geotec Boyles Bros",
+  "description": "Asignación de camionetas, tablets y radios Geotec Boyles Bros",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

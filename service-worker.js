@@ -1,4 +1,4 @@
-const CACHE = 'asignaciones-geotec-v3';
+const CACHE = 'asignaciones-geotec-v4';
 const LOCAL = ['./', './index.html', './styles.css', './script.js', './logo.png', './firma.png', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', event => {
